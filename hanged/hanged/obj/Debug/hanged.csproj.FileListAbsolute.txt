@@ -1,0 +1,11 @@
+C:\Users\lvlvv\source\repos\hanged\hanged\bin\Debug\hanged.exe.config
+C:\Users\lvlvv\source\repos\hanged\hanged\bin\Debug\hanged.exe
+C:\Users\lvlvv\source\repos\hanged\hanged\bin\Debug\hanged.pdb
+C:\Users\lvlvv\source\repos\hanged\hanged\obj\Debug\hanged.csproj.AssemblyReference.cache
+C:\Users\lvlvv\source\repos\hanged\hanged\obj\Debug\hanged.Properties.Resources.resources
+C:\Users\lvlvv\source\repos\hanged\hanged\obj\Debug\hanged.csproj.GenerateResource.cache
+C:\Users\lvlvv\source\repos\hanged\hanged\obj\Debug\hanged.csproj.CoreCompileInputs.cache
+C:\Users\lvlvv\source\repos\hanged\hanged\obj\Debug\hanged.exe
+C:\Users\lvlvv\source\repos\hanged\hanged\obj\Debug\hanged.pdb
+C:\Users\lvlvv\source\repos\hanged\hanged\obj\Debug\hanged.Gallows.resources
+C:\Users\lvlvv\source\repos\hanged\hanged\obj\Debug\hanged.Menu.resources
